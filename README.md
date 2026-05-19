@@ -161,3 +161,4 @@ app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'fallback-key')
 
 MIT License — free to use and modify.
 "# Travel-agency" 
+"# Travel-Agency" 
